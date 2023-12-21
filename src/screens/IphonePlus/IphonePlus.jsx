@@ -29,19 +29,18 @@ export const IphonePlus = () => {
         </div>
         <div className="how-it-works">
           <p className="text-wrapper-21">
-            On March 31, 2024 we are planning to conduct a 4th Schaumburg Tamil Fair 2024 for all Thamizh Schools USA
-            research students. The main theme of this fair is திருக்குறள் மற்றும் தமிழர் பண்பாடு. This will be
-            educational research experience for the parents, kids and visitors. This project is collaboration among
-            Tamil scholar, grand parents, parents, and students. We give sample project, and some documents about the
-            topic for a good start. During the Schaumburg Tamil Fair 2024, Each student will be the representatives of
-            their project, present it through a tri-fold poster board.
+          On March 2024 we are planning to conduct 4th Schaumburg Tamil Fair organised by Thamizh school USA for all Tamil learning students. The main theme of this fair is திருக்குறள் மற்றும் தமிழர் பண்பாடு. This
+will be educational research experience for the parents, kids and visitors. This project is collaboration
+among Tamil scholar, grand parents, parents, and students. We give sample project, and some
+documents about the topic for a good start. During the Schaumburg Tamil Fair 2024, Each student will be
+the representatives of their project, present it through a tri-fold poster board.
           </p>
           <p className="text-wrapper-22">
-            The top students for each level will be recognized. Also top students will be showcase their project and
-            recognized by giving trophies during the 5th World Thirukkural Conference at Chicago conduct by Chicago
-            Tamil Sangam/IAS/IATR on April 5-7, 2024. We are confident that it would be an invigorating and rewarding
-            experience for the parents and the students. We would leave it up to parents and students to use their
-            imagination, creativity and their passion to showcase their talent.
+          The top students for each level will be recognized. Also top students will be showcase their project and recognized by giving
+trophies during the 5th World Thirukkural Conference at Chicago conduct by Chicago Tamil
+Sangam/IAS/IATR on April 5-7, 2024. We are confident that it would be an invigorating and rewarding
+experience for the parents and the students. We would leave it up to parents and students to use their
+imagination, creativity and their passion to showcase their talent.
           </p>
           <div className="group-31">
             <div className="group-32">
@@ -64,50 +63,31 @@ export const IphonePlus = () => {
         <div className="group-33">
           <div className="text-wrapper-29">Research Topics</div>
           <img className="line-3" alt="Line" src="/img/line-1-1.svg" />
-          <p className="text-wrapper-30">2024 தமிழ் ஆராய்ச்சி சில தைலப்புகள் - மாதிரிகள்</p>
+          <p className="text-wrapper-30">2024 தமிழ் ஆராய்ச்சி சில தலைப்புகள் - மாதிரிகள்</p>
           <div className="group-34">
             <div className="overlap-group-6">
               <img className="rectangle-4" alt="Rectangle" src="/img/rectangle-16.svg" />
               <p className="text-wrapper-31">
-                வள்ளுவம் காட்டும் அறம்
-                <br />
-                வள்ளுவம் காட்டும் ெதய்வம்
-                <br />
-                வள்ளுவம் காட்டும் அறிவியல்
-                <br />
-                வள்ளுவம் காட்டும் நுண்ணறிவு
-                <br />
-                திருக்குறளில் உவைமகள்
-                <br />
-                வள்ளுவம் காட்டும் நட்பு
-                <br />
-                திருக்குறளில் விலங்குகள்
-                <br />
-                வள்ளுவம் உணர்த்தும் கற்பு
-                <br />
-                வள்ளுவம் உணர்த்தும் நன்றி
-                <br />
-                வள்ளுவம் உணர்த்தும் ஒழுக்கம்
-                <br />
-                திருக்குறள் காட்டும் அரசியல் முைறகள்
-                <br />
-                திருக்குறள் உளவியல் ேநாக்கு
-                <br />
-                திருக்குறளில் குடும்பமும் மனித உறவுகளும்
-                <br />
-                திருக்குறளில் சமூகவியல் சிந்தைனகள்
-                <br />
-                திருக்குறள் காட்டும் அரசியல் ெநறிமுைறகள்
-                <br />
-                திருக்குறள் காட்டும் தமிழர் ெமய்யியல்
-                <br />
-                திருக்குறளும் ெபண்களும்
-                <br />
-                திருக்குறளும் காட்டும் ெபாதுவுடைம
-                <br />
-                திருக்குறளில் சுற்றுச்சூழல் சிந்தைனகள்
-                <br />
-                வள்ளுவம் உணர்த்தும் முயற்சி
+              வள்ளுவம் காட்டும் அறம்<br />
+              வள்ளுவம் காட்டும் தெய்வம்<br />
+              வள்ளுவம் காட்டும் அறிவியல்<br />
+              வள்ளுவம் காட்டும் நுண்ணறிவு<br />
+              திருக்குறளில் உவைமகள்<br />
+              வள்ளுவம் காட்டும் நட்பு<br />
+              திருக்குறளில் விலங்குகள்<br />
+              வள்ளுவம் உணர்த்தும் கற்பு<br />
+              வள்ளுவம் உணர்த்தும் நன்றி<br />
+              வள்ளுவம் உணர்த்தும் ஒழுக்கம்<br />
+              திருக்குறள் காட்டும் அரசியல் முறைகள்<br />
+              திருக்குறள் உளவியல் நோக்கு<br />
+              திருக்குறளில் குடும்பமும் மனித உறவுகளும்<br />
+              திருக்குறளில் சமூகவியல் சிந்தைனகள்<br />
+              திருக்குறள் காட்டும் அரசியல் நெறிமுறைகள்<br />
+              திருக்குறள் காட்டும் தமிழர் மெய்யியல்<br />
+              திருக்குறளும் பெண்களும்<br />
+              திருக்குறளும் காட்டும் பொதுவுடைமை<br />
+              திருக்குறளில் சுற்றுச்சூழல் சிந்தைனகள்<br />
+              வள்ளுவம் உணர்த்தும் முயற்சி
               </p>
               <img className="image-15" alt="Image" src="/img/image-24-1.png" />
               <img className="image-16" alt="Image" src="/img/image-22-1.png" />
@@ -119,45 +99,27 @@ export const IphonePlus = () => {
               <img className="image-17" alt="Image" src="/img/image-25-1.png" />
               <img className="image-18" alt="Image" src="/img/image-23-1.png" />
               <p className="text-wrapper-32">
-                வள்ளுவம் காட்டும் அறிவு
-                <br />
-                வள்ளுவம் காட்டும் ேகான்ைம
-                <br />
-                வள்ளுவம் காட்டும் வாய்ைம
-                <br />
-                வள்ளுவம் காட்டும் புகழ்
-                <br />
-                வள்ளுவம் காட்டும் துறவு
-                <br />
-                வள்ளுவம் காட்டும் ஊழ்
-                <br />
-                வள்ளுவம் காட்டும் கல்வி
-                <br />
-                வள்ளுவம் காட்டும் அன்பு
-                <br />
-                வள்ளுவம் உணர்த்தும் நிைலயாைம
-                <br />
-                வள்ளுவம் உணர்த்தும் நற்பண்புகள்
-                <br />
-                வள்ளுவம் காட்டும் ஈைக
-                <br />
-                வள்ளுவம் உணர்த்தும் மன உறுதி
-                <br />
-                வள்ளுவம் காட்டும் ேகாபம்
-                <br />
-                திருக்குறள் காட்டும் பைகெவறி எதிர்ப்பியல்
-                <br />
-                திருக்குறளில் கடல்
-                <br />
-                வள்ளுவம் காட்டும் உளவு
-                <br />
-                திருக்குறள் காட்டும் ெசல்வம்
-                <br />
-                திருக்குறள் காட்டும் மானுடவியல் சிந்தைனகள்
-                <br />
-                வள்ளுவம் காட்டும் வாழ்வியல் ெநறிமுைறகள்
-                <br />
-                வள்ளுவம் காட்டும் உறவும் பைகயும்
+              வள்ளுவம் காட்டும் அறிவு<br />
+              வள்ளுவம் காட்டும் கோன்மை<br />
+              வள்ளுவம் காட்டும் வாய்மை<br />
+              வள்ளுவம் காட்டும் புகழ்<br />
+              வள்ளுவம் காட்டும் துறவு<br />
+              வள்ளுவம் காட்டும் ஊழ்<br />
+              வள்ளுவம் காட்டும் கல்வி<br />
+              வள்ளுவம் காட்டும் அன்பு<br />
+              வள்ளுவம் உணர்த்தும் நிலையாமை<br />
+              வள்ளுவம் உணர்த்தும் நற்பண்புகள்<br />
+              வள்ளுவம் காட்டும் ஈகை<br />
+              வள்ளுவம் உணர்த்தும் மன உறுதி<br />
+              வள்ளுவம் காட்டும் கோபம்<br />
+              திருக்குறள் காட்டும் பகைவெறி எதிர்ப்பியல்<br />
+              திருக்குறளில் கடல்<br />
+              வள்ளுவம் காட்டும் உளவு<br />
+              திருக்குறள் காட்டும் செல்வம்<br />
+              திருக்குறள் காட்டும் மானுடவியல் சிந்தைனகள்<br />
+              வள்ளுவம் காட்டும் வாழ்வியல் நெறிமுறைகள்<br />
+              வள்ளுவம் காட்டும் உறவும் பகையும்<br />
+              மற்றும் பல
               </p>
             </div>
           </div>
