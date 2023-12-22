@@ -64,175 +64,175 @@ export const Screen13 = () => {
         </div>
         <Group
           className="group-136"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="நட்பு"
           text1="பிரிதேசு பவானி சங்கர்"
         />
         <Group
           className="group-137"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="உணேவ மருந்து"
           text1="இலாசியபிரியா"
         />
         <Group
           className="group-138"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="வாய்மை"
           text1="சானகி சுவாமிநாதன்"
         />
         <Group
           className="group-139"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="அறத்தின் முக்கியத்துவ..."
           text1="ஆதவ் சிரிராம்"
         />
         <Group
           className="group-140"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="வேளாண்மையின் பெரு..."
           text1="சித்தார்து செல்வகுமார்"
         />
         <Group
           className="group-141"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="தமிழர் உணவுகள்"
           text1="சிரிசரணஂ"
         />
         <Group
           className="group-142"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="மார்கழி மாத கோலங்கள்"
           text1="அசுவிகா சுரேசு புவனேசுவர்"
         />
         <Group
           className="group-143"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="நேர்மை"
           text1="சௌசன்யா செந்தில்குமார்"
         />
         <Group
           className="group-144"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="பறை"
           text1="முகுந்த்து கிருட்டிணக்குமார்"
         />
         <Group
           className="group-145"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="தமிழ் இலக்கியம்"
           text1="பூர்வி இலக்குமிநாராயணன்"
         />
         <Group
           className="group-146"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="தமிழ்க்கல்வி"
           text1="யச்வந்த் ராஜ்குமார்"
         />
         <Group
           className="group-147"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="நடனக்கலை"
           text1="ஆராதனா கணேசன்"
         />
         <Group
           className="group-148"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="விருந்தோம்பல்"
           text1="சுதர்சன நிமல் தயாளகுமார்"
         />
         <Group
           className="group-149"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="சிற்பகலை"
           text1="இரிக்கி சோன்சு"
         />
         <Group
           className="group-150"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="மனிதநேயம்"
           text1="சஞ்சனா சந்தீபு"
         />
         <Group
           className="group-151"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           rectangle="/img/rectangle-15-22.png"
           text="பொங்கல் திருவிழா"
           text1="பிரேனசு பவானி சங்கர"
         />
         <Group
           className="group-152"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="கோவில் கட்டிடக்கலை"
           text1="இலட்சனா அருணபிரசாத்"
         />
         <Group
           className="group-153"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="ஒழுக்கத்தின் முக்கியத்து..."
           text1="அசய் வீரமுத்து"
         />
         <Group
           className="group-154"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           rectangle="/img/rectangle-15-1.png"
           text="சிலம்பாட்டம்"
           text1="அகில் நித்தியானந்தா"
         />
         <Group
           className="group-155"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           rectangle="/img/rectangle-15-2.png"
           text="நீர்வளத்தின் முக்கியத்து..."
           text1="நேகா கோபால்"
         />
         <Group
           className="group-156"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           rectangle="/img/rectangle-15-25.png"
           text="ஏறுதழுவுதல்"
           text1="வருண் சுப்பிரமணியன்"
         />
         <Group
           className="group-157"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="பொருளை ஈட்டும் முறை..."
           text1="சந்திரேசு கோபால்"
         />
         <Group
           className="group-158"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="பொருளை ஈட்டும் முறை..."
           text1="அக்சரா அருண் கார்த்திக்"
         />
         <Group
           className="group-159"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           rectangle="/img/rectangle-15-22.png"
           text="பொங்கல் திருவிழா"
           text1="அதிதி நித்தியானந்தா"
         />
         <Group
           className="group-160"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="விருந்தோம்பல்"
           text1="இனியன் தமிழ்ச்செல்வன் அறிவழகன்"
         />
         <Group
           className="group-161"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="தமிழர் நடனக்கலைகள்"
           text1="வர்சினி விசயகாளிராசன்"
         />
         <Group
           className="group-162"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           rectangle="/img/rectangle-15-25.png"
           text="வீரம்"
           text1="திகழ் பொன்சிரி&nbsp;&nbsp;பொன்னரசு"
         />
         <Group
           className="group-163"
-          href="https://drive.google.com/drive/folders/1L0W8hGUgy48OG7pn4GXhunhUjEHOXWm7"
+          href="https://drive.google.com/drive/u/1/folders/1z894oac5EhecudhZYXxSlJsixung5ZK_"
           text="பெரியோர்களை மதித்தல்"
           text1="தியானவ் வைத்தியநாதன்"
         />
