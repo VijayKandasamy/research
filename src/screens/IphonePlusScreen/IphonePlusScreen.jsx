@@ -193,7 +193,7 @@ export const IphonePlusScreen = () => {
               <br />
               03/17/2024
               <br />
-              03/24/2024
+              03/23/2024
               <br />
               04/06/2024
           </div>
